@@ -6,11 +6,13 @@ To set up and build the `MouseMover` application, follow the steps below.
 
 1. **Install Python**  
    Download and install Python from the official website: [python.org](https://www.python.org/downloads/){:target="_blank" rel="noopener"}
+   
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
  (use right-click or Ctrl/Cmd+click to open in a new tab).
    - **Recommendation**: Install Python to `C:\Python` for simplicity.  
    - Ensure Python and pip are added to your system PATH during installation.
 
-2. **Prepare an Icon File**  
+3. **Prepare an Icon File**  
    You will need an `.ico` file for the application icon. The path to this icon file is referenced in:
    - Line 35 of the `MouseMover.py` script.
    - Line 37 in the script (for the system tray icon).
