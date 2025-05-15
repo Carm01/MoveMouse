@@ -5,7 +5,8 @@ To set up and build the `MouseMover` application, follow the steps below.
 ## Prerequisites
 
 1. **Install Python**  
-   Download and install Python from the official website: <a href="https://www.python.org/downloads/" target="_blank">python.org</a>.
+   Download and install Python from the official website: [python.org](https://www.python.org/downloads/){:target="_blank" rel="noopener"}
+ (use right-click or Ctrl/Cmd+click to open in a new tab).
    - **Recommendation**: Install Python to `C:\Python` for simplicity.  
    - Ensure Python and pip are added to your system PATH during installation.
 
